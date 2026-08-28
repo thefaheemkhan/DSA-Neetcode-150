@@ -14,7 +14,7 @@ This repo contains my solutions, notes, and progress tracker as I work through t
 
 ---
 
-## 🗂️ Repo Structure
+## 🗂️ Repo Structure 
 
 ```
 neetcode-150/
