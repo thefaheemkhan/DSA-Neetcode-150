@@ -1,4 +1,4 @@
-# NeetCode 150 🚀 
+# DSA NeetCode 150 🚀 
 
 My personal practice repository for solving the [NeetCode 150](https://neetcode.io/practice) — a curated list of 150 essential coding interview problems covering all major data structure and algorithm patterns.
 
